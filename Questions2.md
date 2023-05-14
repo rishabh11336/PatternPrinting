@@ -96,6 +96,7 @@ Sample Output 2:
 Send Feedback
 Print the following pattern
 Pattern for N = 4
+<br>
 <img src="3724.png" title="pattern" alt="pattern" />
 
 The dots represent spaces.
