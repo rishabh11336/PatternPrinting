@@ -291,3 +291,180 @@ CDEFG
 BCDEFG
 ABCDEFG
 ```
+
+# Q7. Number Pattern 1
+Send Feedback
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+```
+1
+11
+111
+1111
+```
+Input format :
+```
+Integer N (Total no. of rows)
+```
+Output format :
+```
+Pattern in N lines
+```
+Sample Input :
+```
+5
+```
+Sample Output :
+```
+1
+11
+111
+1111
+11111
+```
+
+# Q8. Number Pattern 2
+Send Feedback
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+```
+1
+11
+202
+3003
+```
+Input format :
+```
+Integer N (Total no. of rows)
+```
+Constraints:
+```
+1 <= n <= 50
+```
+Output format :
+```
+Pattern in N lines
+```
+Sample Input :
+```
+5
+```
+Sample Output :
+```
+1
+11
+202
+3003
+40004
+```
+
+# Q9. Number Pattern 3
+Send Feedback
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+```
+1
+11
+121
+1221
+```
+Input format :
+```
+Integer N (Total no. of rows)
+```
+Output format :
+```
+Pattern in N lines
+```
+Sample Input :
+```
+5
+```
+Sample Output :
+```
+1
+11
+121
+1221
+12221
+```
+
+# Q10. Number Pattern
+Send Feedback
+Print the following pattern for the given N number of rows.
+Pattern for N = 4
+```
+1234
+123
+12
+1
+```
+Input format :
+```
+Integer N (Total no. of rows)
+```
+Output format :
+```
+Pattern in N lines
+```
+Sample Input :
+```
+5
+```
+Sample Output :
+```
+12345
+1234
+123
+12
+1
+```
+
+# Q11. Alpha Pattern
+Send Feedback
+Print the following pattern for the given N number of rows.
+Pattern for N = 3
+ ```
+ A
+ BB
+ CCC
+ ```
+Input format :
+```
+Integer N (Total no. of rows)
+```
+Output format :
+```
+Pattern in N lines
+```
+Constraints
+```
+0 <= N <= 26
+```
+Sample Input 1:
+```
+7
+```
+Sample Output 1:
+```
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+GGGGGGG
+```
+Sample Input 2:
+```
+6
+```
+Sample Output 2:
+```
+A
+BB
+CCC
+DDDD
+EEEEE
+FFFFFF
+```
