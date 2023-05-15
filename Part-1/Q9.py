@@ -9,8 +9,8 @@ else:
     print(1)
     print(11)
     for i in range(2,N):
-        print(i,end="")
+        print(1,end="")
         for j in range(i-1):
-            print(0,end="")
-        print(i,end="")
+            print(2,end="")
+        print(1,end="")
         print()
