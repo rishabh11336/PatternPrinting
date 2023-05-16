@@ -76,7 +76,7 @@ Sample Input 1:
 ```
 Sample Output 1:
 ```
-   1 
+  1 
  12
 123
 ```
