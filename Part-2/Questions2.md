@@ -138,7 +138,7 @@ Sample Output 2 :
  *******
 ```
 
-# Q3. Code : Triangle of Numbers
+# Q4. Code : Triangle of Numbers
 Send Feedback
 Print the following pattern for the given number of rows.
 Pattern for N = 4
@@ -186,7 +186,7 @@ Sample Output 2:
 4567654
 ```
 
-# Q4. Code : Diamond of stars
+# Q5. Code : Diamond of stars
 Send Feedback
 Print the following pattern for the given number of rows.
 Note: N is always odd.
@@ -235,7 +235,7 @@ Sample Output 2:
   *
 ```
 
-# Q5. Number Pattern
+# Q6. Number Pattern
 Send Feedback
 Print the following pattern for n number of rows.
 Note: each line consist of equal number of characters + spaces. Suppose you are printing xth line for N=n. You need to print 1..x followed by (n-x) spaces, again (n-x) spaces followed by x..1
@@ -260,7 +260,7 @@ Sample Output 1 :
 12344321
 ```
 
-# Q6. Zeros and Stars Pattern
+# Q7. Zeros and Stars Pattern
 Send Feedback
 Print the following pattern
 Pattern for N = 4
@@ -301,7 +301,7 @@ Sample Output 2 :
 0000***0000
 ```
 
-# Q7. Pyramid Number Pattern
+# Q8. Pyramid Number Pattern
 Send Feedback
 Print the following pattern for the given number of rows.
 Pattern for N = 4
@@ -328,7 +328,7 @@ Sample Output :
 543212345
 ```
 
-# Q8. Arrow pattern
+# Q9. Arrow pattern
 Send Feedback
 Print the following pattern for the given number of rows.
 Assume N is always odd.
@@ -368,4 +368,4 @@ Sample Output :
    * * *
  * *
 *
-```
+``` 
