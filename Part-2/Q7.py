@@ -1,8 +1,16 @@
 N = int(input())
 
 for i in range(N):
-    print("0"*i,end="")
+    for j in range(N):
+        if i==j:
+            print("*",end="")
+        else:
+            print("0",end="")
     print("*",end="")
-    print("0"*(N-1-i),end="")
-    print("*",end="")
+
+    for k in range(N):
+        if k == N-1-i:
+            print("*",end="")
+        else:
+            print("0",end="")
     print()
